@@ -1,4 +1,4 @@
-# WIN..psh
+# WIN.PSH
 ## WINDOWS POWERSHELL
 ### Scripts, Snippets, Explanations, ...
 
